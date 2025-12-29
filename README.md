@@ -1,2 +1,2 @@
-# Git-Oefening
-Dit is mijn eerste Git respository.
+## Introductie
+Deze branch is gemaakt om branches te oefenen.
